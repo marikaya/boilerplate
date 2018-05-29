@@ -1,20 +1,5 @@
 <component name="libraryTable">
   <library name="Generated files" type="javaScript">
-    <properties>
-      <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/components/no-ssr.js" />
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/client.js" />
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/server.js" />
-        <item url="file://$PROJECT_DIR$/dist/build/main.js" />
-        <item url="file://$PROJECT_DIR$/dist/plugins/bootstrap.js" />
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/empty.js" />
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/components/nuxt.js" />
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/components/nuxt-child.js" />
-        <item url="file://$PROJECT_DIR$/dist/nuxt.config.js" />
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/components/nuxt-link.js" />
-        <item url="file://$PROJECT_DIR$/dist/.nuxt/middleware.js" />
-      </sourceFilesUrls>
-    </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/.nuxt/components/no-ssr.js" />
       <root url="file://$PROJECT_DIR$/dist/.nuxt/client.js" />
@@ -28,6 +13,7 @@
       <root url="file://$PROJECT_DIR$/dist/.nuxt/components/nuxt-link.js" />
       <root url="file://$PROJECT_DIR$/dist/.nuxt/middleware.js" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>
